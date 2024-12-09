@@ -1,0 +1,19 @@
+# see also https://github.com/github/gitignore/blob/master/Global/Xcode.gitignore
+
+## macOS
+.DS_Store
+.tmp
+
+## Xcode
+*.xcuserstate
+*.xcbkptlist
+*xcuserdata
+*xcbaselines
+build/
+DerivedData/
+.xcodesamplecode.plist
+
+
+## SPM
+.build/
+
